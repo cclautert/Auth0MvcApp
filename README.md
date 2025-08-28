@@ -1,4 +1,4 @@
-# Quickstart Sample
+# Auth0MvcApp Sample
 
 This example shows how to add login/logout and extract user profile information from claims.
 
